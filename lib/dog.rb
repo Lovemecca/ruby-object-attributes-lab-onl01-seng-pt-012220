@@ -3,7 +3,19 @@ class Dog
    @name = jack
   end 
   
-  n
+  def name
+    @name 
+  end 
+  
+  def breed = (yorkie)
+    @breed 
+  end 
+  
+  def breed
+    @breed 
+  end 
+  
+  
    
   
   
