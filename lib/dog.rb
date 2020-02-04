@@ -8,7 +8,7 @@ class Dog
   end 
   
   def breed = (yorkie)
-    @breed 
+    @breed  = yorkie
   end 
   
   def breed
